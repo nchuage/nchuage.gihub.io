@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Age Lab at [National Chuing Hsing University](https://www.nchu.edu.tw/en-index).
+Sustainability Lab at [National Chuing Hsing University](https://www.nchu.edu.tw/en-index).
 
 #### Mission
 

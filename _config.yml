@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sustainability Lab at National Chung Hsing University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  sustainabilitylag
+github_username:  sustainabilitylab
 
 # Build settings
 theme: minima

@@ -8,8 +8,8 @@ Age Lab at [National Chuing Hsing University](https://www.nchu.edu.tw/en-index).
 
 #### Mission
 
-Our mission is to 
+The mission of Age lab is to proactively recognize issues related to aging population, analyze, and find solutions from cross-discsiplinary perspective.
 
 #### Research
 
-Primary reseasrch area includes
+Age lab extensively explore solutions from social science, business & management, technology and many more angles.

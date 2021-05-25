@@ -3,10 +3,10 @@
 - name: About
   link: /about.html
 - name: Members
-  link: /members.html
+  link: /members.md
 - name: Publications
-  link: /publications.html
+  link: /publications.md
 - name: Projects
-  link: /projects.html
+  link: /projects.md
 - name: Blog
   link: /blog.html  
